@@ -1,0 +1,19 @@
+[SwitchyOmega Conditions]
+@with result
+
+Keyword: facebook +default-proxy
+*.vector.dev +default-proxy
+*.youtube.com +default-proxy
+*.google.com.hk +default-proxy
+*.media07.com +default-proxy
+*.v2ex.com +default-proxy
+*.bing.com +default-proxy
+*.realme.com +default-proxy
+*.xn--9kq61slq0c.com +default-proxy
+Keyword: google.com +default-proxy
+*.github.com +direct
+tieba.baidu.com +default-proxy
+*.weibo.com +default-proxy
+*.mozilla.org +default-proxy
+
+* +direct
