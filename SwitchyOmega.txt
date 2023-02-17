@@ -2,6 +2,13 @@
 @with result
 
 Keyword: facebook +default-proxy
+Keyword: google.com +default-proxy
+Keyword: weibo.com +default-proxy
+
+tieba.baidu.com +default-proxy
+
+*.stackoverflow.com +default-proxy
+*.github.dev +default-proxy
 *.vector.dev +default-proxy
 *.youtube.com +default-proxy
 *.google.com.hk +default-proxy
@@ -10,10 +17,9 @@ Keyword: facebook +default-proxy
 *.bing.com +default-proxy
 *.realme.com +default-proxy
 *.xn--9kq61slq0c.com +default-proxy
-Keyword: google.com +default-proxy
-*.github.com +direct
-tieba.baidu.com +default-proxy
 *.weibo.com +default-proxy
 *.mozilla.org +default-proxy
+
+*.github.com +direct
 
 * +direct
