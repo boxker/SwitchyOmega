@@ -1,0 +1,36 @@
+[SwitchyOmega Conditions]
+@with result
+
+localhost +direct
+Ip: 127.0.0.1/32 +direct
+Ip: 10.0.0.0/8 +direct
+Ip: 172.16.0.0/12 +direct
+Ip: 192.168.0.0/16 +direct
+
+*.xip.io +direct
+*.emailpower.cn +direct
+*.bootcss.com +direct
+*.bdimg.com +direct
+*.bdstatic.com +direct
+*.openai.com +direct
+*.alipayobjects.com +direct
+*.aliyun.com +direct
+*.mmstat.com +direct
+*.ufoo.net +direct
+*.centbrowser.cn +direct
+*.51cto.com +direct
+1.1.1.2 +direct
+*.tingyun.com +direct
+*.csdnimg.cn +direct
+*.ucloud.cn +direct
+*.aliyuncs.com +direct
+*.alicdn.com +direct
+*.orchome.com +direct
+*.csdn.net +direct
+*.zhihu.com +direct
+*.cnblogs.com +direct
+*.baiducontent.com +direct
+*.fjylzbrt.com +direct
+www.baidu.com +direct
+*.openai.com +direct
+*.aliyun.com +direct
